@@ -1,5 +1,6 @@
 # README #
 A simple universal react redux application.
+(Under Construction)
 
 #### To install
 `npm install`
